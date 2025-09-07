@@ -5,12 +5,12 @@ import { getFirestore, setDoc, doc } from "https://www.gstatic.com/firebasejs/11
 
 // Firebase configuration
 const firebaseConfig = {
-   apiKey: "AIzaSyDxzfRnuAWciqdLSodD7WFxlTsoPaVAwd8",
-   authDomain: "login-form-cccbb.firebaseapp.com",
-   projectId: "login-form-cccbb",
-   storageBucket: "login-form-cccbb.firebasestorage.app",
-   messagingSenderId: "555060780307",
-   appId: "1:555060780307:web:2bb96ea264567092998ee6"
+  apiKey: "AIzaSyC0m8mvbd7wDfB9ov7dtVfuzxlLa4kKnhk",
+  authDomain: "login-form-cccbb.firebaseapp.com",
+  projectId: "login-form-cccbb",
+  storageBucket: "login-form-cccbb.firebasestorage.app",
+  messagingSenderId: "555060780307",
+  appId: "1:555060780307:web:0608080dfb6a785a998ee6"
 };
 
 // Initialize Firebase
